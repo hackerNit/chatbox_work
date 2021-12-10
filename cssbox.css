@@ -1,0 +1,60 @@
+*{
+    background-color: black;
+    color: white;
+}
+.header{
+
+ height: 15px;
+}
+
+.main{
+ 
+ height: 85px;
+}
+
+.container1{
+ position: relative;
+}
+
+.container2{
+ position: absolute;
+ top:0;
+ left:0;
+ right: 0;
+}
+.container3{
+ position: absolute;
+ top:20px;
+ left:0;
+ right: 0;
+}
+.btn{
+    width: 50%;
+}
+.headchat{
+ min-height: 50px;
+}
+
+.pic{
+ margin-top: 7px;
+ height: 30px;
+ width: 30px;
+}
+
+.contacts{
+ background-color: white;
+ min-height: 600px;
+}
+
+
+
+.message-area{
+    background-color: white;
+ min-height: 600px;
+}
+
+
+
+.message-box{
+ 
+}
